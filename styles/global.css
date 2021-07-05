@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300;400;500;700&family=Rubik:wght@300;400;500&display=swap');
+
+:root {
+    --Oswald: 'Oswald', sans-serif;
+    --Rubik: 'Rubik', sans-serif;
+}
+
+.oswald {
+    font-family: var(--Oswald);
+}
+
+.rubik {
+    font-family: var(--Rubik);
+}
