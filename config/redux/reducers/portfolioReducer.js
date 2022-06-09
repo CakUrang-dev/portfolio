@@ -12,6 +12,16 @@ const initialState = {
       alt: "portfolio",
       title: "Portfolio",
     },
+    {
+      src: "/img/bonnethood.png",
+      alt: "bonnethood",
+      title: "Bonnethood",
+    },
+    {
+      src: "/img/searchrealty.png",
+      alt: "searchrealty",
+      title: "Search Realty",
+    },
   ],
   isHover: false,
   modalPortfolio: [
@@ -35,6 +45,33 @@ const initialState = {
         "Tailwind CSS",
       ],
       desc: "This project was created to show the projects that I've made",
+    },
+    {
+      src: "/img/bonnethood.png",
+      alt: "bonnethood",
+      title: "Bonnethood",
+      tech: [
+        "Typescript",
+        "Redux",
+        "React-Redux",
+        "React.js",
+        "Next.js",
+        "Styled Component",
+      ],
+      desc: "This project is my second project from freelancing, I get this project from my client for a bug fixing and css fixing",
+    },
+    {
+      src: "/img/searchrealty.png",
+      alt: "searchrealty",
+      title: "Searchrealty",
+      tech: [
+        "Javascript",
+        "Redux",
+        "React-Redux",
+        "React.js",
+        "React Bootstrap",
+      ],
+      desc: "This project is my first project from freelancing, I get this project from my client to build the whole page and convert wordpress to React website. I build this project from scratch, from the navigation bar until the footer, and I create this page for 3 days",
     },
   ],
 };

@@ -44,6 +44,22 @@ const initialState = {
       id: 11,
       skill: "tailwindcss",
     },
+    {
+      id: 12,
+      skill: "typescript",
+    },
+    {
+      id: 13,
+      skill: "python",
+    },
+    {
+      id: 13,
+      skill: "python",
+    },
+    {
+      id: 14,
+      skill: "c++",
+    },
   ],
 };
 
